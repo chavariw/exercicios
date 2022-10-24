@@ -1,5 +1,11 @@
 package fundamentos;
 
+/**
+ *
+ * @author wander.chavari
+ * @version 1.0
+ *
+ */
 public class PrimeiroPrograma {
 
     public static void main(String[] args) {
