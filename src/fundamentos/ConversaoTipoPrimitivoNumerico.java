@@ -13,5 +13,9 @@ public class ConversaoTipoPrimitivoNumerico {
         int c = 4;
         byte d = (byte) c; // explicita (CAST)
         System.out.println(d);
+
+        double e = 1.999999;
+        int f = (int) e; // explicita (CAST)
+        System.out.println(f);
     }
 }
